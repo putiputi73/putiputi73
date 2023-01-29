@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @putiputi73
 - 👀 I’m interested in data science and coding
 - 🌱 I’m currently learning python and SQL
+-     I'm an excel, R-studio and STATA expert
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me via email
 
